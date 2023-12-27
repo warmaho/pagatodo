@@ -1,0 +1,8 @@
+{
+  "title": "Bancos",
+  "subtitle": "Al mover el contador intentara hacer peticiones para obtener la data en caso que no exista lanzara la peticion",
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}

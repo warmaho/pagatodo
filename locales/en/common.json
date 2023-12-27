@@ -1,0 +1,8 @@
+{
+  "title": "Banks",
+  "subtitle": "When moving the counter it will try to make requests to obtain the data, in case it does not exist it will launch the request",
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}
